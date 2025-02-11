@@ -1,0 +1,1814 @@
+[
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR01479286895379742721",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR01479286895379742721",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "TR",
+                "first_shown": "2024-03-28",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 50000,
+                "times_shown_upper_bound": 60000,
+                "times_shown_start_date": "2024-03-28",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 60000,
+                            "times_shown_lower_bound": 50000,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_INCLUDED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR08549507301793333249",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR08549507301793333249",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 6000,
+                "times_shown_upper_bound": 7000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 7000,
+                            "times_shown_lower_bound": 6000,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "FR",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 6000,
+                "times_shown_upper_bound": 7000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 7000,
+                            "times_shown_lower_bound": 6000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_INCLUDED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR08759918642977570817",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR08759918642977570817",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-27",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 3000,
+                "times_shown_upper_bound": 4000,
+                "times_shown_start_date": "2024-03-27",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 4000,
+                            "times_shown_lower_bound": 3000,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "ES",
+                "first_shown": "2024-03-27",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 3000,
+                "times_shown_upper_bound": 4000,
+                "times_shown_start_date": "2024-03-27",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 4000,
+                            "times_shown_lower_bound": 3000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Business & Industrial",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR10070327596077285377",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR10070327596077285377",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 7000,
+                "times_shown_upper_bound": 8000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "PL",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 7000,
+                "times_shown_upper_bound": 8000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR07383085993420652545",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR07383085993420652545",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-28",
+                "times_shown_end_date": "2024-03-28",
+                "times_shown_lower_bound": 4000,
+                "times_shown_upper_bound": 5000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "PT",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-28",
+                "times_shown_end_date": "2024-03-28",
+                "times_shown_lower_bound": 4000,
+                "times_shown_upper_bound": 5000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR08839567265293664257",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR08839567265293664257",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "FR",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Jobs & Education",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR04519975306877992961",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR04519975306877992961",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-22",
+                "last_shown": "2024-03-25",
+                "times_shown_end_date": "2024-03-25",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-22",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "FR",
+                "first_shown": "2024-03-22",
+                "last_shown": "2024-03-25",
+                "times_shown_end_date": "2024-03-25",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-22",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_INCLUDED",
+            "topics_of_interest": "CRITERIA_INCLUDED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR12939109563596013569",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR12939109563596013569",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "DE",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 20000,
+                "times_shown_upper_bound": 25000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 25000,
+                            "times_shown_lower_bound": 20000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 20000,
+                "times_shown_upper_bound": 25000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 25000,
+                            "times_shown_lower_bound": 20000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR14648546679578427393",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR14648546679578427393",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "AT",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 2000,
+                            "times_shown_lower_bound": 1000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 2000,
+                            "times_shown_lower_bound": 1000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_INCLUDED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR12095960066952265729",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR12095960066952265729",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-27",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 4000,
+                "times_shown_upper_bound": 5000,
+                "times_shown_start_date": "2024-03-27",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 5000,
+                            "times_shown_lower_bound": 4000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "ES",
+                "first_shown": "2024-03-27",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 4000,
+                "times_shown_upper_bound": 5000,
+                "times_shown_start_date": "2024-03-27",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 5000,
+                            "times_shown_lower_bound": 4000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Business & Industrial",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR02648423997473030145",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR02648423997473030145",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-28",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 2000,
+                "times_shown_upper_bound": 3000,
+                "times_shown_start_date": "2024-03-28",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 3000,
+                            "times_shown_lower_bound": 2000,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "IT",
+                "first_shown": "2024-03-28",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 2000,
+                "times_shown_upper_bound": 3000,
+                "times_shown_start_date": "2024-03-28",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 3000,
+                            "times_shown_lower_bound": 2000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_INCLUDED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR05588381750704209921",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR05588381750704209921",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 3000,
+                "times_shown_upper_bound": 4000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 4000,
+                            "times_shown_lower_bound": 3000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "PT",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 3000,
+                "times_shown_upper_bound": 4000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 4000,
+                            "times_shown_lower_bound": 3000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_INCLUDED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR03791172820499693569",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR03791172820499693569",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 2000,
+                "times_shown_upper_bound": 3000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "PL",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 2000,
+                "times_shown_upper_bound": 3000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR15769509779212337153",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR15769509779212337153",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "DE",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR11037123772334211073",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR11037123772334211073",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 3000,
+                "times_shown_upper_bound": 4000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "ES",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 3000,
+                "times_shown_upper_bound": 4000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR08355300562979258369",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR08355300562979258369",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-04-12",
+                "times_shown_end_date": "2024-04-12",
+                "times_shown_lower_bound": 4000,
+                "times_shown_upper_bound": 5000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "PT",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-04-12",
+                "times_shown_end_date": "2024-04-12",
+                "times_shown_lower_bound": 4000,
+                "times_shown_upper_bound": 5000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR14296832701062184961",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR14296832701062184961",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "DE",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 10000,
+                "times_shown_upper_bound": 15000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 10000,
+                "times_shown_upper_bound": 15000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR04968859725010567169",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR04968859725010567169",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-28",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-28",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 2000,
+                            "times_shown_lower_bound": 1000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "IT",
+                "first_shown": "2024-03-28",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-28",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 2000,
+                            "times_shown_lower_bound": 1000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_INCLUDED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR12745905579386470401",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR12745905579386470401",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 10000,
+                "times_shown_upper_bound": 15000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "ES",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 10000,
+                "times_shown_upper_bound": 15000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR11755113661364961281",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR11755113661364961281",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "TR",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 15000,
+                "times_shown_upper_bound": 20000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR13483510755856744449",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR13483510755856744449",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "DE",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 9000,
+                "times_shown_upper_bound": 10000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 9000,
+                "times_shown_upper_bound": 10000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR07889210986895245313",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR07889210986895245313",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 2000,
+                "times_shown_upper_bound": 3000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 3000,
+                            "times_shown_lower_bound": 2000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "PT",
+                "first_shown": "2024-03-26",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 2000,
+                "times_shown_upper_bound": 3000,
+                "times_shown_start_date": "2024-03-26",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 3000,
+                            "times_shown_lower_bound": 2000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_INCLUDED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR06271956925785571329",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR06271956925785571329",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "DE",
+                "first_shown": "2024-03-27",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-27",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 2000,
+                            "times_shown_lower_bound": 1000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-27",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-27",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 2000,
+                            "times_shown_lower_bound": 1000,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_INCLUDED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR15982639113140436993",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR15982639113140436993",
+        "ad_format_type": "IMAGE",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "AT",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 6000,
+                "times_shown_upper_bound": 7000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            },
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-25",
+                "last_shown": "2024-03-27",
+                "times_shown_end_date": "2024-03-27",
+                "times_shown_lower_bound": 6000,
+                "times_shown_upper_bound": 7000,
+                "times_shown_start_date": "2024-03-25",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": null
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_UNUSED",
+            "geo_location": "CRITERIA_UNUSED",
+            "contextual_signals": "CRITERIA_UNUSED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    },
+    {
+        "advertiser_id": "AR11440974118338428929",
+        "creative_id": "CR12257232034467938305",
+        "creative_page_url": "https://adstransparency.google.com/advertiser/AR11440974118338428929/creative/CR12257232034467938305",
+        "ad_format_type": "VIDEO",
+        "advertiser_disclosed_name": "Embark Studios AB",
+        "advertiser_legal_name": "Embark Studios AB",
+        "advertiser_location": "SE",
+        "advertiser_verification_status": "VERIFIED",
+        "region_stats": [
+            {
+                "region_code": "EEA",
+                "first_shown": "2024-03-28",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-28",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 2000,
+                            "times_shown_lower_bound": 1000,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            },
+            {
+                "region_code": "PL",
+                "first_shown": "2024-03-28",
+                "last_shown": "2024-04-02",
+                "times_shown_end_date": "2024-04-02",
+                "times_shown_lower_bound": 1000,
+                "times_shown_upper_bound": 2000,
+                "times_shown_start_date": "2024-03-28",
+                "times_shown_availability_date": null,
+                "surface_serving_stats": {
+                    "surface_serving_stats": [
+                        {
+                            "surface": "SHOPPING",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "MAPS",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "SEARCH",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "PLAY",
+                            "times_shown_upper_bound": 1000,
+                            "times_shown_lower_bound": 0,
+                            "times_shown_availability_date": null
+                        },
+                        {
+                            "surface": "YOUTUBE",
+                            "times_shown_upper_bound": 2000,
+                            "times_shown_lower_bound": 1000,
+                            "times_shown_availability_date": null
+                        }
+                    ]
+                }
+            }
+        ],
+        "audience_selection_approach_info": {
+            "demographic_info": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "geo_location": "CRITERIA_INCLUDED",
+            "contextual_signals": "CRITERIA_INCLUDED_AND_EXCLUDED",
+            "customer_lists": "CRITERIA_UNUSED",
+            "topics_of_interest": "CRITERIA_UNUSED"
+        },
+        "topic": "Hobbies, Games & Leisure",
+        "is_funded_by_google_ad_grants": false
+    }
+]
